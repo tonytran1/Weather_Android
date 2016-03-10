@@ -1,4 +1,4 @@
-package com.example.tony.sfweather;
+package com.example.tony.weather;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

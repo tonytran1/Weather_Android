@@ -1,9 +1,7 @@
-package com.example.tony.sfweather;
+package com.example.tony.weather;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.view.Menu;
-import android.view.MenuItem;
 import android.webkit.WebSettings;
 import android.webkit.WebView;
 
